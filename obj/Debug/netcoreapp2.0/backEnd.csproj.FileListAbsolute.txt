@@ -1,0 +1,11 @@
+C:\code\Quon\backEnd\bin\Debug\netcoreapp2.0\backEnd.deps.json
+C:\code\Quon\backEnd\bin\Debug\netcoreapp2.0\backEnd.runtimeconfig.json
+C:\code\Quon\backEnd\bin\Debug\netcoreapp2.0\backEnd.runtimeconfig.dev.json
+C:\code\Quon\backEnd\bin\Debug\netcoreapp2.0\backEnd.dll
+C:\code\Quon\backEnd\bin\Debug\netcoreapp2.0\backEnd.pdb
+C:\code\Quon\backEnd\obj\Debug\netcoreapp2.0\backEnd.csproj.CoreCompileInputs.cache
+C:\code\Quon\backEnd\obj\Debug\netcoreapp2.0\backEnd.AssemblyInfoInputs.cache
+C:\code\Quon\backEnd\obj\Debug\netcoreapp2.0\backEnd.AssemblyInfo.cs
+C:\code\Quon\backEnd\obj\Debug\netcoreapp2.0\backEnd.dll
+C:\code\Quon\backEnd\obj\Debug\netcoreapp2.0\backEnd.pdb
+C:\code\Quon\backEnd\obj\Debug\netcoreapp2.0\backEnd.csprojAssemblyReference.cache
